@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Baguio",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-11-03T12:01:47.668Z",
+      "notes": "I want to live here.",
+      "position": {
+        "lat": "16.41830252856057",
+        "lng": "120.6182098388672"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Oteiza",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-11-03T12:03:22.976Z",
+      "notes": "San Agustin, where umma used to live.",
+      "position": {
+        "lat": "8.741900219394049",
+        "lng": "126.22020721435548"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Tianshui",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-02-04T01:29:13.183Z",
+      "notes": "saffdff",
+      "position": {
+        "lat": "34.50655662164561",
+        "lng": "104.94140625000001"
+      },
+      "id": 3
+    }
+  ]
+}
